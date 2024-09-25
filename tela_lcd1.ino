@@ -40,9 +40,9 @@ void loop()
   
   if(cm<100){//SE MENBO QUE 1 METRO/100CM
     lcd.setCursor(0,0);//INICIAR A ESCRIITA NA LINHA 0 COLUNA
-    lcd.print("FICA LONGE");
+    lcd.print("MANTENHA");
     lcd.setCursor(0,1);//INICIAR A ESCRITA NA LINHA 0 COLUNA
-    lcd.print("AGORA!!");    
+    lcd.print("DISTANCIA!");    
   }else{//senão
     lcd.clear();//APAGUE TODAS AS MENSAGENS DO DISPLAY.
   }
