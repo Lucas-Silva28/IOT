@@ -13,7 +13,7 @@ uma mensagem de Mantenha Distância toda vez que alguém se aproxime a menos de 
 - Sensor de Distância
 
 ## Montagem do Circuito
-![circuito](TELALCD.png)
+![circuito](TelaLCD.png)
 
 ## Explicação do Código
 
