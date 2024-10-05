@@ -25,11 +25,12 @@ ou incluir funcionalidades IoT para monitoramento remoto.
 - 1 Arduino (ou outro microcontrolador compatível).
 - 6 Jumpers Macho-macho.
 - 3 Jumpers macho-Fémea.
+- 3 resistores de 220 Ohms.
 
 ## Estrutura Montada.
 
 
-![Umidade do solo](Umidade_do_solo.png)
+![Umidade do solo](umidade_do_solo.png)
 
 
 ##  Bibliotecas.
