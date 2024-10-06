@@ -22,7 +22,9 @@ Controla um motor que pode simular o acionamento de uma bomba de água.
 - 9 Jumpers Macho-Fémea.
 - 8 Jumpers Macho-Macho.
 
+ ## Imagem do sensor ligando o motor e a tela LCD .
 
+ 
 ![Regando plantas plantas com motor e tela avisando Motor Ligado](umidade_solo_motor.png)
 
 
